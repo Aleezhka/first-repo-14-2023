@@ -1,2 +1,2 @@
 # first repo
-My first repository ir-14
+My first repository IR-14
